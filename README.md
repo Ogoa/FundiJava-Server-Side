@@ -1,2 +1,2 @@
-# FundiJava Server Side
- This is the implementation of the server-side functionality supporting the running of MyFundi App.
+# FundiJava Server-Side
+ This is the implementation of the server-side functionality that will be needed to run the MyFundi App.
